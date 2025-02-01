@@ -5,7 +5,7 @@ This is a open-source project serves as a handbook for various technologies and 
 
 Weather you are computer science students or you are coding enthusiast this repos will be your go to resource for all the things related to C, C++, Python, HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB and ExpressJS.
 
-![photo](./spaceship.png)
+![photo](./img/spaceship.png)
 
 
 ## How to contribution from the community to help us expand and improve this handbook, If you would like to contribute follow these steps:
